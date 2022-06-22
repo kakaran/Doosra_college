@@ -6,7 +6,10 @@
 .nav
 {
     /* border:2px solid black; */
-    background-color:lavender
+    background-color:lavender;
+    display: flex;
+    width:auto;
+    justify-content: space-between;
 }
 #nav_icon
 {
@@ -19,7 +22,6 @@
 {
     float: right;
     display: flex;
-    align-items: center;
     padding: 33px;
 }
 .elements
@@ -30,6 +32,7 @@
     font-family: 'Roboto Mono', monospace;
     color:black;
     text-shadow: 1px 1px 1px gold;
+    display: block;
 }
 .elements:hover
 {
