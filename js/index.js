@@ -18,6 +18,14 @@ const arr = ['java','c++','c']
 //     console.log(karan);
 //   })
 
-console.log(new Date());
-console.log(new Date().getTime());
+// console.log(new Date());
+// console.log(new Date().getTime());
+// let name ="karan"
 
+// console.log(name.toUpperCase());
+
+// let value = 56.323;
+
+// console.log(typeof value);
+
+// console.log(value.toFixed(1));
